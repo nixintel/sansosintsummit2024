@@ -31,8 +31,9 @@ RuTube: https://rutube.ru/
 # Useful Resources
 
 Spevktator: https://spevktator.io/vk  
-Spevktator GitHub: https://github.com/MischaU8/spevktator
+Spevktator GitHub: https://github.com/MischaU8/spevktator  
 Apify VK: https://apify.com/mscraper/vk-comments-scraper  
+VK API: https://vk.readthedocs.io/en/latest/vk-api.html  
 Search4Faces: https://search4faces.com    
 Barkov: https://barkov.net  
 
