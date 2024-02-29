@@ -37,9 +37,9 @@ Barkov: https://barkov.net
 
 # CyberCrime & Grey Data
 
-XSS: https://xss.is
-Exploit: https://exploit.in
-DDOS Secrets: https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets  
+XSS: https://xss.is  
+Exploit: https://exploit.in  
+DDOS Secrets: https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets    
 
 
 
