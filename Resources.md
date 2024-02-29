@@ -13,27 +13,27 @@ Protection Group International: https://pgitl.com
 
 # OPSEC Considerations
 
-AlgoVPN: https://github.com/trailofbits/algo  
-Ihor: https://ihor.online/  
-Hostry: https://hostry.com  
-Commpeak: https://www.commpeak.com/services/virtual-numbers-dids/coverage/russia  
-SMS Man: https://sms-man.com/  
+AlgoVPN: https://github.com/trailofbits/algo    
+Ihor: https://ihor.online/    
+Hostry: https://hostry.com    
+Commpeak: https://www.commpeak.com/services/virtual-numbers-dids/coverage/russia    
+SMS Man: https://sms-man.com/    
 
 # Russian Platforms
 
 VK: https://vk.ru  
 OK: https://ok.ru
-Mail.ru: https://mail.ru
-Moy Mir: https://my.mail.ru/  
-Namebook: https://namebook.club
-RuTube: https://rutube.ru/  
+Mail.ru: https://mail.ru  
+Moy Mir: https://my.mail.ru/    
+Namebook: https://namebook.club  
+RuTube: https://rutube.ru/    
 
 # Useful Resources
 
-Spevktator: https://spevktator.io/vk
-Spevktator GitHub: https://github.com/MischaU8/spevktator  
-Search4Faces: https://search4faces.com  
-Barkov: https://barkov.net
+Spevktator: https://spevktator.io/vk  
+Spevktator GitHub: https://github.com/MischaU8/spevktator    
+Search4Faces: https://search4faces.com    
+Barkov: https://barkov.net  
 
 # CyberCrime & Grey Data
 
