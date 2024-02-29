@@ -22,7 +22,7 @@ SMS Man: https://sms-man.com/
 # Russian Platforms
 
 VK: https://vk.ru  
-OK: https://ok.ru
+OK: https://ok.ru  
 Mail.ru: https://mail.ru  
 Moy Mir: https://my.mail.ru/    
 Namebook: https://namebook.club  
